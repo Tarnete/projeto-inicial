@@ -1,0 +1,18 @@
+//Criar uma função que exibe "Olá, mundo!" no console.
+function Ola(){alert("Olá !!");}
+function exibeOlaMundo() {
+    console.log("Olá, mundo!");
+  }
+//Criar uma função que recebe um nome como parâmetro e exibe "Olá, [nome]!" no console.
+function Ola(nome){
+    console.log(Olá)
+}
+//Criar uma função que recebe um número como parâmetro e retorna o dobro desse número.
+function dobraNumero(num){return 2*num;}
+num(3);
+
+//Criar uma função que recebe três números como parâmetros e retorna a média deles.
+
+//Criar uma função que recebe dois números como parâmetros e retorna o maior deles.
+
+//Criar uma função que recebe um número como parâmetro e retorna o resultado da multiplicação desse número por ele mesmo
